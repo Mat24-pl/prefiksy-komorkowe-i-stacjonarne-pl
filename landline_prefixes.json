@@ -1,0 +1,247 @@
+[
+  {
+    "prefix": ["12"],
+    "city": "Kraków",
+    "region": "małopolskie"
+  },
+  {
+    "prefix": ["13"],
+    "city": "Krosno",
+    "region": "podkarpackie"
+  },
+  {
+    "prefix": ["14"],
+    "city": "Tarnów",
+    "region": "małopolskie"
+  }, 
+  {
+    "prefix": ["15"],
+    "city": "Tarnobrzeg",
+    "region": "podkarpackie"
+  },
+  {
+    "prefix": ["16"],
+    "city": "Przemyśl",
+    "region": "podkarpackie"
+  },
+  {
+    "prefix": ["17"],
+    "city": "Rzeszów",
+    "region": "podkarpackie"
+  }, 
+  {
+    "prefix": ["18"],
+    "city": "Nowy Sącz",
+    "region": "małopolskie"
+  },
+  {
+    "prefix": ["22"],
+    "city": "Warszawa",
+    "region": "mazowieckie"
+  },
+  {
+    "prefix": ["23"],
+    "city": "Ciechanów",
+    "region": "mazowieckie"
+  },
+  {
+    "prefix": ["24"],
+    "city": "Płock",
+    "region": "mazowieckie"
+  },
+  {
+    "prefix": ["25"],
+    "city": "Siedlce",
+    "region": "mazowieckie"
+  }, 
+  {
+    "prefix": ["29"],
+    "city": "Ostrołęka",
+    "region": "mazowieckie"
+  },
+  {
+    "prefix": ["32"],
+    "city": "Katowice",
+    "region": "śląskie"
+  }, 
+  {
+    "prefix": ["33"],
+    "city": "Bielsko-Biała",
+    "region": "śląskie"
+  },
+  {
+    "prefix": ["34"],
+    "city": "Częstochowa",
+    "region": "śląskie"
+  },
+  {
+    "prefix": ["41"],
+    "city": "Kielce",
+    "region": "świętokrzyskie"
+  },
+  {
+    "prefix": ["42"],
+    "city": "Łódź",
+    "region": "łódzkie"
+  },
+  {
+    "prefix": ["43"],
+    "city": "Sieradz",
+    "region": "łódzkie"
+  }, 
+  {
+    "prefix": ["44"],
+    "city": "Piotrków Trybunalski",
+    "region": "łódzkie"
+  },
+  {
+    "prefix": ["46"],
+    "city": "Skierniewice",
+    "region": "łódzkie"
+  },
+  {
+    "prefix": ["48"],
+    "city": "Radom",
+    "region": "mazowieckie"
+  },
+  {
+    "prefix": ["52"],
+    "city": "Bydgoszcz",
+    "region": "kujawsko-pomorskie"
+  },
+  {
+    "prefix": ["54"],
+    "city": "Włocławek",
+    "region": "kujawsko-pomorskie"
+  },
+  {
+    "prefix": ["55"],
+    "city": "Elbląg",
+    "region": "warmińsko-mazurskie"
+  },
+  {
+    "prefix": ["56"],
+    "city": "Toruń",
+    "region": "kujawsko-pomorskie"
+  },
+  {
+    "prefix": ["58"],
+    "city": "Gdańsk",
+    "region": "pomorskie"
+  }, 
+  {
+    "prefix": ["59"],
+    "city": "Słupsk",
+    "region": "pomorskie"
+  },
+  {
+    "prefix": ["61"],
+    "city": "Poznań",
+    "region": "wielkopolskie"
+  },
+  {
+    "prefix": ["62"],
+    "city": "Kalisz",
+    "region": "wielkopolskie"
+  },
+  {
+    "prefix": ["63"],
+    "city": "Konin",
+    "region": "wielkopolskie"
+  },
+  {
+    "prefix": ["65"],
+    "city": "Leszno",
+    "region": "wielkopolskie"
+  },
+  {
+    "prefix": ["67"],
+    "city": "Piła",
+    "region": "wielkopolskie"
+  },
+  {
+    "prefix": ["68"],
+    "city": "Zielona Góra",
+    "region": "lubuskie"
+  },
+  {
+    "prefix": ["71"],
+    "city": "Wrocław",
+    "region": "dolnośląskie"
+  },
+  {
+    "prefix": ["74"],
+    "city": "Wałbrzych",
+    "region": "dolnośląskie"
+  },
+  {
+    "prefix": ["75"],
+    "city": "Jelenia Góra",
+    "region": "dolnośląskie"
+  },
+  {
+    "prefix": ["76"],
+    "city": "Legnica",
+    "region": "dolnośląskie"
+  },
+  {
+    "prefix": ["77"],
+    "city": "Opole",
+    "region": "opolskie"
+  },
+  {
+    "prefix": ["81"],
+    "city": "Lublin",
+    "region": "lubelskie"
+  }, 
+  {
+    "prefix": ["82"],
+    "city": "Chełm",
+    "region": "lubelskie"
+  },
+  {
+    "prefix": ["83"],
+    "city": "Biała Podlaska",
+    "region": "lubelskie"
+  },
+  {
+    "prefix": ["84"],
+    "city": "Zamość",
+    "region": "lubelskie"
+  },
+  {
+    "prefix": ["85"],
+    "city": "Białystok",
+    "region": "podlaskie"
+  },
+  {
+    "prefix": ["86"],
+    "city": "Łomża",
+    "region": "podlaskie"
+  },
+  {
+    "prefix": ["87"],
+    "city": "Suwałki",
+    "region": "podlaskie"
+  },
+  {
+    "prefix": ["89"],
+    "city": "Olsztyn",
+    "region": "warmińsko-mazurskie"
+  },
+  {
+    "prefix": ["91"],
+    "city": "Szczecin",
+    "region": "zachodniopomorskie"
+  }, 
+  {
+    "prefix": ["94"],
+    "city": "Koszalin",
+    "region": "zachodniopomorskie"
+  },
+  {
+    "prefix": ["95"],
+    "city": "Gorzów Wielkopolski",
+    "region": "lubuskie"
+  }
+]
