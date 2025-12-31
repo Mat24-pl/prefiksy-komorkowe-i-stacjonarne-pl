@@ -1,6 +1,6 @@
 [
   {
-    "prefix": "800",
+    "prefix": ["800"],
     "type": "Bezpłatny dla dzwoniącego",
     "mobile_cost": "brak",
     "landline_cost": "brak",
@@ -8,7 +8,7 @@
     "warning": "Połączenie zgodne z taryfikatorem operatora"
   },
   {
-    "prefix": ["801 0", "801 1", "801 2"],
+    "prefix": ["8010", "8011", "8012"],
     "type": "Dodatkowa opłata",
     "mobile_cost": "ok. 0,29–0,36 zł/min",
     "landline_cost": "ok. 0,29–0,36 zł/min",
@@ -16,7 +16,7 @@
     "warning": "Uwaga: Koszty naliczane za każdą rozpoczętą minutę połączenia"
   },
  {
-    "prefix": ["801 3"],
+    "prefix": ["8013"],
     "type": "Dodatkowa opłata",
     "mobile_cost": "ok. 0,29–0,36 zł/min",
     "landline_cost": "ok. 0,29–0,36 zł/min",
@@ -24,7 +24,7 @@
     "warning": "Uwaga: Koszty naliczane za każdą rozpoczętą minutę połączenia"
   },
   {
-    "prefix": "801 4",
+    "prefix": ["8014"],
     "type": "Dodatkowa opłata",
     "mobile_cost": "0,20-0,40 zł/min",
     "landline_cost": "0,24-0,49 zł/min",
@@ -32,7 +32,7 @@
     "warning": "Uwaga: To jeden z najdroższych numerów infolinii! Koszty naliczane za każdą rozpoczętą minutę połączenia"
   },
   {
-    "prefix": ["801 5", "801 6", "801 7", "801 8"],
+    "prefix": ["8015", "8016", "8017", "8018"],
     "type": "Dodatkowa opłata",
     "mobile_cost": "ok. 0,29–0,36 zł/min",
     "landline_cost": "ok. 0,29–0,36 zł/min",
@@ -40,7 +40,7 @@
     "warning": "Uwaga: Koszty naliczane za każdą rozpoczętą minutę połączenia"
   },
 {
-    "prefix": ["801 9"],
+    "prefix": ["8019"],
     "type": "Dodatkowa opłata",
     "mobile_cost": "ok. 0,29–0,36 zł",
     "landline_cost": "ok. 0,29–0,36 zł",
@@ -48,7 +48,7 @@
     "warning": "Uwaga: Koszty naliczane za każde rozpoczęte 3-6 minut połączenia (zależne od cennika infolinii)"
   },
   {
-    "prefix": "804 1",
+    "prefix": ["8041"],
     "type": "Dodatkowa opłata",
     "mobile_cost": "ok. 0,29–0,36 zł",
     "landline_cost": "ok. 0,29–0,36 zł",
@@ -56,7 +56,7 @@
     "warning": "Uwaga: Koszty naliczane za każde rozpoczęte 3-6 minut połączenia (zależne od cennika infolinii)"
   },
   {
-    "prefix": "804 2",
+    "prefix": ["8042"],
     "type": "Dodatkowa opłata",
     "mobile_cost": "ok. 0,29–0,36 zł/min",
     "landline_cost": "ok. 0,29–0,36 zł/min",
