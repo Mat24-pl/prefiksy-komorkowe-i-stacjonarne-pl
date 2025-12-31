@@ -1,0 +1,114 @@
+[
+    {
+        "prefix": "112",
+        "name": "Europejski Numer Alarmowy",
+        "description": "Uniwersalny numer alarmowy w UE",
+        "cost": "Bezpłatny",
+        "type": "alarm"
+    },
+    {
+        "prefix": "999",
+        "name": "Ratownictwo Medyczne",
+        "description": "Pomoc medyczna",
+        "cost": "Bezpłatny",
+        "type": "alarm"
+    },
+    {
+        "prefix": "998",
+        "name": "Straż Pożarna",
+        "description": "Pożary i inne zagrożenia",
+        "cost": "Bezpłatny",
+        "type": "alarm"
+    },
+    {
+        "prefix": "997",
+        "name": "Policja",
+        "description": "Zagrożenia bezpieczeństwa publicznego",
+        "cost": "Bezpłatny - Dzwoniąc na ten numer, połąłczenie zostanie przekierowane na numer 112",
+        "type": "alarm"
+    },
+    {
+        "prefix": "996",
+        "name": "Centrum antyterrorystyczne ABW",
+        "description": "Zagrożenia terrorystyczne",
+        "cost": "Bezpłatny",
+        "type": "alarm"
+    },
+    {
+        "prefix": "995",
+        "name": "Komendant Główny Policji - system Child Alert",
+        "description": "Zgłaszanie zaginięć dzieci",
+        "cost": "Bezpłatny",
+        "type": "alarm"
+    },
+    {
+        "prefix": "994",
+        "name": "Pogotowie wodociągów i kanalizacji",
+        "description": "Awarie sieci wodociągowej i kanalizacyjnej",
+        "cost": "Bezpłatny",
+        "type": "service"
+    },
+    {
+        "prefix": "993",
+        "name": "Pogotowie Ciepłownicze",
+        "description": "Awarie sieci ciepłowniczej",
+        "cost": "Bezpłatny",
+        "type": "service"
+    },
+    {
+        "prefix": "992",
+        "name": "Pogotowie Gazowe",
+        "description": "Awarie sieci gazowej",
+        "cost": "Bezpłatny",
+        "type": "service"
+    },
+    {
+        "prefix": "991",
+        "name": "Pogotowie Energetyczne",
+        "description": "Awarie sieci energetycznej",
+        "cost": "Bezpłatny",
+        "type": "service"
+    },
+    {
+        "prefix": "989",
+        "name": "Telefoniczna Informacja NFZ",
+        "description": "Informacje o świadczeniach zdrowotnych i placówkach medycznych",
+        "cost": "Bezpłatny. UWAGA! jeżeli Twój operator nie obsługuje połączeń na ten numer lub dzwonisz z zagranicy, zadzwoń: +22 626 29 89 (koszt zgodny z taryfikatorem operatora)",
+        "type": "service"
+    },
+    {
+        "prefix": "987",
+        "name": "Wojewódzkie Centrum Zarządzania Kryzysowego",
+        "description": "Informacje o zagrożeniach i sytuacjach kryzysowych",
+        "cost": "Bezpłatny",
+        "type": "service"
+    },
+    {
+        "prefix": "986",
+        "name": "Straż Miejska",
+        "description": "Zgłaszanie wykroczeń i problemów lokalnych",
+        "cost": "Bezpłatny",
+        "type": "service"
+    },
+    {
+        "prefix": "985",
+        "name": "Ratownictwo morskie i górskie (WOPR, GOPR i TOPR)",
+        "description": "Pomoc w sytuacjach zagrożeń na wodzie i w górach",
+        "cost": "Bezpłatny",
+        "type": "alarm"
+    },
+    {
+        "prefix": "984",
+        "name": "Pogotowie Rzeczne (MOPR)",
+        "description": "Pomoc w sytuacjach zagrożeń na rzekach",
+        "cost": "Bezpłatny",
+        "type": "alarm"
+    },
+    {
+        "prefix": "981",
+        "name": "Pogotowie Drogowe",
+        "description": "Pomoc drogowa",
+        "cost": "Bezpłatny",
+        "type": "service"
+    }
+]
