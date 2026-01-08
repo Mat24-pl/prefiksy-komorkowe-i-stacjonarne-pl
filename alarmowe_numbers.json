@@ -73,7 +73,7 @@
         "prefix": "989",
         "name": "Telefoniczna Informacja NFZ",
         "description": "Informacje o świadczeniach zdrowotnych i placówkach medycznych",
-        "cost": "Bezpłatny. UWAGA! jeżeli Twój operator nie obsługuje połączeń na ten numer lub dzwonisz z zagranicy, zadzwoń: +22 626 29 89 (koszt zgodny z taryfikatorem operatora)",
+        "cost": "Bezpłatny. UWAGA! jeżeli Twój operator nie obsługuje połączeń na ten numer lub dzwonisz z zagranicy, zadzwoń: +48 22 626 29 89 (koszt zgodny z taryfikatorem operatora)",
         "type": "service"
     },
     {
@@ -111,4 +111,5 @@
         "cost": "Bezpłatny",
         "type": "service"
     }
+
 ]
