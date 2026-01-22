@@ -172,12 +172,19 @@
     "name": "Caritas Łączy Sp. z o.o.",
     "logo": "assets/logos/caritas_laczy.png",
     "url": "https://caritaslaczy.pl/"
-  }
+  },
 
   {
     "prefix:": ["45540", "45544"],
     "name": "Telestrada S.A.",
     "logo": "assets/logos/telestrada.png",
     "url": "https://telestrada.pl"
+  },
+
+  {
+    "prefix:": ["45958", "45959"],
+    "name": "Lajt Mobile",
+    "logo": "assets/logos/lajt.png",
+    "url": "https://lajtmobile.pl"
   }
 ]
