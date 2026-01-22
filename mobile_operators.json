@@ -91,7 +91,7 @@
   },
 
   {
-    "prefix": ["69960"],
+    "prefix": ["45140", "57957", "69960"],
     "name": "3S S.A.",
     "logo": "assets/logos/3s.png",
     "url": "https://3s.com.pl"
@@ -172,5 +172,12 @@
     "name": "Caritas Łączy Sp. z o.o.",
     "logo": "assets/logos/caritas_laczy.png",
     "url": "https://caritaslaczy.pl/"
+  }
+
+  {
+    "prefix:": ["45540", "45544"],
+    "name": "Telestrada S.A.",
+    "logo": "assets/logos/telestrada.png",
+    "url": "https://telestrada.pl"
   }
 ]
