@@ -8,7 +8,7 @@
 
   {
     "prefix": ["2114", "2115", "601", "603", "605", "607", "609", "661", "663", "665", "667", "669", "691", "693", "695", "697", "721", "722", "723", "724", "725", "726", "7270", "7274", "7275", "7276", "72770", "72771", "72772", "72777", "72779", "7278", "7279", "7370", "7371", "73720", "73721", "73722", "73723", "73724", "73725", "78040", "78070", "781", "782", "783", "785", "78950", "78951", "78952", "78953", "78954", "78955", "885", "887"],
-    "name": "Plus",
+    "name": "Polkomtel Sp. z o.o. (Plus)",
     "logo": "assets/logos/plus.png",
     "url": "https://www.plus.pl"
   },
@@ -77,7 +77,7 @@
   }, 
 
   {
-    "prefix": ["69950", "72970"],
+    "prefix": ["69901", "69950", "72970"],
     "name": "AMD Telecom S.A.",
     "logo": "assets/logos/amdtelecom.png",
     "url": "https://www.amdtelecom.net/"
@@ -91,7 +91,7 @@
   },
 
   {
-    "prefix": ["45140", "57957", "69960"],
+    "prefix": ["45140", "57957" ,"69960"],
     "name": "3S S.A.",
     "logo": "assets/logos/3s.png",
     "url": "https://3s.com.pl"
@@ -175,16 +175,156 @@
   },
 
   {
-    "prefix:": ["45540", "45544"],
+    "prefix": ["45540", "45544"],
     "name": "Telestrada S.A.",
     "logo": "assets/logos/telestrada.png",
     "url": "https://telestrada.pl"
   },
 
   {
-    "prefix:": ["45958", "45959"],
+    "prefix": ["45958", "45959"],
     "name": "Lajt Mobile",
     "logo": "assets/logos/lajt.png",
     "url": "https://lajtmobile.pl"
+  }, 
+
+  {
+    "prefix": ["45021"],
+    "name": "4RE Sp. z o.o.",
+    "logo": "assets/logos/4re.png",
+    "url": "https://4re.pl/"
+  },
+
+  {
+    "prefix": ["73991"],
+    "name": "AGILE TELECOM S.P.A",
+    "logo": "assets/logos/agile.png",
+    "url": "https://agiletelecom.com"
+  },
+
+  {
+    "prefix": ["73999"],
+    "name": "AHMES Sp. z o.o.",
+    "logo": "assets/logos/ahmes.png",
+    "url": "https://ahmes.pl/"
+  },
+
+  {
+    "prefix": ["45909"],
+    "name": "Benemen Poland Sp. z o.o.",
+    "logo": "assets/logos/benemen.png",
+    "url": "https://benemen.com"
+  }, 
+
+  {
+    "prefix": ["45957"],
+    "name": "BSG ESTONIA OU",
+    "logo": "assets/logos/bsg.png",
+    "url": "https://bsg.world/"
+  }, 
+
+  {
+    "prefix": ["45545"],
+    "name": "CLAUDE ICT POLAND Sp. z o.o. (TeleCube)",
+    "logo": "assets/logos/telecube.png",
+    "url": "telecube.pl"
+  },
+
+  {
+    "prefix": ["78678"],
+    "name": "CLUDO",
+    "logo": "assets/logos/cludo.png",
+    "url": "https://cludo.pl"
+  },
+
+  {
+    "prefix": ["69974", "72972"],
+    "name": "COMPATEL LIMITED",
+    "logo": "assets/logos/compatel.png",
+    "url": "https://compatel.com"
+  },
+
+  {
+    "prefix": ["78025"],
+    "name": "CrossMobile",
+    "logo": "assets/logos/crossmobile.png",
+    "url": "https://crossmobile.pl"
+  },
+
+  {
+    "prefix": ["57978", "57979"],
+    "name": "EZ PHONE MOBILE",
+    "logo": "",
+    "url": ""
+  },
+
+  {
+    "prefix": ["57977", "69958", "73910"],
+    "name": "I.M. Consulting I. Miłosz",
+    "logo": "",
+    "url": ""
+  }, 
+
+  {
+    "prefix": ["78021", "78022", "78023", "78024", "78027"],
+    "name": "Inea S.A.",
+    "logo": "assets/logos/inea.png",
+    "url": "https://www.inea.pl"
+  },
+
+  {
+    "prefix": ["88448"],
+    "name": "INTERKONEKT P. Barczyk T. Furman Sp. j.",
+    "logo": "",
+    "url": ""
+  },
+
+  {
+    "prefix": ["78600"],
+    "name": "JMDI J. Maleszko",
+    "logo": "",
+    "url": ""
+  },
+
+  {
+    "prefix": ["78670"],
+    "name": "Lancelot B. V.",
+    "logo": "assets/logos/lancelot.png",
+    "url": "https://lencelot-telecom.nl"
+  },
+
+  {
+    "prefix": ["57941"],
+    "name": "Messagebird B. V.",
+    "logo": "assets/logos/bird.png",
+    "url": "https://bird.com"
+  },
+
+  {
+    "prefix": ["78028"],
+    "name": "Metroport Sp. z o.o.",
+    "logo": "",
+    "url": "https://metroport.pl"
+  },
+
+  {
+    "prefix": ["73992"],
+    "name": "MobiWeb Telecom Limited",
+    "logo": "assets/logos/mobiweb.png",
+    "url": ""
+  },
+
+  {
+    "prefix": ["69959"],
+    "name": "Move Telecom",
+    "logo": "assets/logos/movetelecom.png",
+    "url": "https://movetele.com"
+  },
+
+  {
+    "prefix": ["45945"],
+    "name": "NAU Profit",
+    "logo": "assets/logos/nau.png",
+    "url": "https://naumobile.pl"
   }
 ]
